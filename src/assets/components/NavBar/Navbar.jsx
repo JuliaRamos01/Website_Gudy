@@ -13,8 +13,8 @@ export default function NavBar(){
                     <li>Sobre</li>
                     <li>Benefícios</li>
                     <li>Contato</li>
+                    <button>Agendar</button>
                 </ul>
-                <button>Agendar</button>
             </S.NavText>
         </S.NavSection>
     );
