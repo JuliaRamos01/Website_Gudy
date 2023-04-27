@@ -8,7 +8,7 @@ export default function Contact(){
                 <h1>Fale conosco</h1>
                 <input type="email" placeholder="Diga o seu melhor email"/>
                 <input type="text" placeholder="Assunto"/>
-                <input type="message" placeholder="Escreva a sua mensagem"/>
+                <S.Messagebox><input type="message" placeholder="Escreva a sua mensagem"/></S.Messagebox>
                 <button>ENVIAR</button>
             </S.ContactForm>
         </S.ContactContainer>

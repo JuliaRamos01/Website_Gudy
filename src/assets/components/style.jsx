@@ -12,3 +12,8 @@ export const DivSpace = styled.div`
 height: 70vh;
 border: green 4px solid;
 `;
+
+export const TravelSectionOneImg = styled.div`
+height: 30vh;
+border: red 2px solid;
+`;

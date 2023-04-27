@@ -3,14 +3,14 @@ import styled from "styled-components";
 export const HeaderSection = styled.div`
 display: flex;
 align-items: center;
-width: 100vw;
+width: 100%;
 height: 100vh;
 /* border: blue 3px solid; */
 `;
 
 export const HeaderImage = styled.div`
 display: flex;
-width: 100vw;
+width: 100%;
 /* border: yellow 3px solid; */
 
 img{

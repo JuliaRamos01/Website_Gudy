@@ -46,6 +46,7 @@ export const GaleryCards = styled.div`
 display: flex;
 justify-content: space-around;
 align-items: center;
+text-align: center;
 height: 50vh;
 width: 70vw;
 /* border: magenta 3px solid; */
@@ -91,6 +92,7 @@ img{
 }
 
 p{
+    /* text-align: center; */
     color: #FFFFFF;
     font-weight: bold;
     font-size: 20px;

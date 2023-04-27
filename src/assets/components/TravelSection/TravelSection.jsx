@@ -1,18 +1,19 @@
 import React from "react";
 import * as S from "./TravelSectionStyle";
 import Image1 from "../../images/pessoasebaloes.png";
-import Image2 from "../../images/pessoasdancando.png";
+/* import Image2 from "../../images/pessoasdancando.png";
 import Image3 from "../../images/rodanapiscina.png";
 import RiodeJaneiro from "../../images/riodejaneiro.png";
 import RiodasOstras from "../../images/riodasostras.png";
 import CaldasNovas from "../../images/caldasnovas.png";
-import Amazonia from "../../images/amazonia.png";
+import Amazonia from "../../images/amazonia.png"; */
 
 export default function TravelSection(){
 
     return(
         <S.TravelSectionMain>
-            {/* <S.TravelSectionOne>
+            <h1>Olá</h1>
+            <S.TravelSectionOne>
                 <S.TravelSectionOneImg>
                     <img src={Image1} alt="Pessoas e balões"/>
                 </S.TravelSectionOneImg>
@@ -23,7 +24,7 @@ export default function TravelSection(){
                     <p>Planeje sua viagem com a sua paquera, compartilhar momentos preciosos juntos não tem preço.</p>
                     <button>AGENDAR</button>
                 </S.TravelSectionOneText>
-            </S.TravelSectionOne> */}
+            </S.TravelSectionOne>
         </S.TravelSectionMain>
     );
 };
